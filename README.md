@@ -2,7 +2,7 @@
 
 <!-- 👉 Banner: suba o arquivo "download. gif" (já cortado em formato faixa) para uma pasta
      "assets" no seu repositório (ex: assets/download.gif) e o caminho abaixo já funciona sozinho -->
-<img src="assets/download (2).gif" width="100%"/>
+<img src="assets/download (2).gif" width="80%"/>
 
 <h1>🌿 Olá, eu sou a Luanna! 👋</h1>
 
